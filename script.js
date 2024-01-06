@@ -1,6 +1,7 @@
 //your JS code here. If required.let
 function abc(){
-	let para=document.getElementById("demo").innerText="DOM load success"
+	let h1=document.getElementById("demo");
+	h1.innerText="DOM load success"
 }
 
 
